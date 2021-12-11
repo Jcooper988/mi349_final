@@ -1,0 +1,50 @@
+html {
+    background-image:url("restaurant-image-2.jpg");
+    
+}
+h1 {
+    text-align: center;
+    color: azure;
+}
+.home {
+    text-align: center;
+    color:whitesmoke;
+}
+.pic {
+    float: center;
+
+}
+.basic {
+    color: whitesmoke;
+    font-size: larger;
+}
+#guide {
+    text-align: center;
+    margin: 4px;
+}
+.fg {
+    margin:10px;
+    color: azure;
+}
+.food {
+    text-align: center;
+    color: azure;
+}
+.main {
+    text-align: center;
+    color:beige;
+}
+.text {
+    text-align: center;
+    color: mintcream;
+    font-size: large;
+}
+.rush {
+    text-align: center;
+    color: azure;
+}
+.dn {
+    text-align: center;
+    font: larger;
+    color: whitesmoke;
+}
